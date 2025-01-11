@@ -4,3 +4,4 @@
 * Zoro
 * Usop
 * Zanji
+* Choper
