@@ -3,3 +3,4 @@
 * Luffy 
 * Zoro
 * Usop
+* Zanji
